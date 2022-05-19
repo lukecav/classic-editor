@@ -13,8 +13,8 @@
  * Text Domain: classic-editor
  * Domain Path: /languages
  * Requires at least: 4.9
- * Tested up to: 5.9
- * Requires PHP: 5.2.4
+ * Tested up to: 6.0
+ * Requires PHP: 7.2
  *
  * This program is free software; you can redistribute it and/or modify it under the terms of the GNU
  * General Public License version 2, as published by the Free Software Foundation. You may NOT assume
